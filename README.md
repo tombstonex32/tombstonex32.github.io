@@ -1,6 +1,6 @@
 <html>
   <head>
-   Tyrell Toomey
+   Tyrell Joomey
     </head>
   <body>
   <h1>My Profile</h1>
